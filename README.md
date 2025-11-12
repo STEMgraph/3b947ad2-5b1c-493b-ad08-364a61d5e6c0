@@ -1,6 +1,7 @@
 <!---
 {
   "id": "3b947ad2-5b1c-493b-ad08-364a61d5e6c0",
+  "teaches": "Using MariaDB in a Docker Container",
   "depends_on": ["d1bee1c7-d88a-4f00-a44e-3e402f6ee826"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-05-14",
